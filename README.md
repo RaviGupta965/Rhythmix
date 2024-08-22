@@ -1,2 +1,2 @@
-# spotify-clone
-This is Spotify-clone with dynamic albums library
+# Spotify-clone
+This is a clone of spotify with some libraries of songs.
